@@ -1,0 +1,15 @@
+rho = 1000
+g = 9.81
+m = 0.001
+k = 0.001
+A = 1E-4
+V_diver = 0.2E-6
+Po = 101325
+ho = 0.0105
+
+Pi = Po
+Pf = Po
+t_switch = 0
+tend = 5
+
+xo = 1
